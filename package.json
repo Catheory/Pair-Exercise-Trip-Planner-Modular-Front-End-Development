@@ -1,0 +1,25 @@
+{
+  "name": "pair-exercise-trip-planner-modular-front-end-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Catheory/Pair-Exercise-Trip-Planner-Modular-Front-End-Development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Catheory/Pair-Exercise-Trip-Planner-Modular-Front-End-Development/issues"
+  },
+  "homepage": "https://github.com/Catheory/Pair-Exercise-Trip-Planner-Modular-Front-End-Development#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
